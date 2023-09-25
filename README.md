@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Jay Sharma @jay-web
-- 🧑 I am JavaScript Developer with 4 plus years of experience.
-- 👀 I’m interested in creating/collaborating applications using React, JavaScript and Node stacks.
-- 💼 Take a look of some of my projects on portfolio - https://portfolio.jscoder.in
+- 🧑 I am a JavaScript Developer with 4 plus years of experience.
+- 👀 I’m interested in creating/collaborating applications using React, JavaScript, and Node stacks.
+- ⛓  Also familiar with Solidity and Smart Contract creation for Ethereum Blockchain network and web3 tools.
+- 💼 Take a look at some of my projects on my portfolio - https://portfolio.jscoder.in
 - 📫 You may connect to me via email - jay.developer12@gmail.com
 
 <!---
